@@ -1,0 +1,60 @@
+$bg-color: blue;
+
+body, html{
+	padding:0;
+	margin: 0;
+	background-color: #f5f6f7;
+}
+
+body {
+    // background: $bg-color;
+    font-family: Lato, sans-serif;
+}
+
+a, a:hover{
+	text-decoration: none;
+}
+
+h1{
+	margin-bottom: 30px;
+	font-size: 4rem;
+	color:   #fff;
+}
+    .sa{
+	    font-size: 25px;
+	    font-weight: bold;
+	    text-align: center;
+	    color: #dadcde;
+    }
+
+.cill{font-weight: bold;}
+
+.s{
+	font-weight: 100;
+}
+.cd{
+	color: #de2e1d;
+}
+
+.se{
+    margin-top: 50px;
+    color: #a09c9d;
+    font-weight: 600;
+}
+
+.o{
+	color: #fff;
+    font-size: 2rem;
+}
+
+h2{
+	margin-bottom: 35px;
+	font-size: 3rem;
+}
+.map{
+	width: 100%;
+	height: 456px;
+}
+.juste{
+	height: 456px;
+}
